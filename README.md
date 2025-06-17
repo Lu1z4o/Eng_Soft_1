@@ -18,7 +18,7 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 
 ## Sumário
 
-*   [1. VISÃO DO PRODUTO](./docs/1-visao-do-produto.md)
+*   [Visão do produto](./documentos_projeto/visao_produto.md)
 *   [2. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ](./docs/2-o-que-e-nao-e-faz-nao-faz.md)
 *   [3. PERSONAS](./docs/3-personas.md)
 *   [4. BRAINSTORM DE FUNCIONALIDADES](./docs/4-brainstorm-funcionalidades.md)
