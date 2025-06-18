@@ -40,7 +40,6 @@
       <ul>
         <li>Não transmite corridas ao vivo.</li>
         <li>Não permite inscrição em eventos ou competições.</li>
-        <li>Não gera código ou entrega técnica do produto.</li>
         <li>Não oferece recursos para compra de ingressos ou produtos de equipes.</li>
         <li>Não coleta dados para uso em apostas esportivas</li>
       </ul>
