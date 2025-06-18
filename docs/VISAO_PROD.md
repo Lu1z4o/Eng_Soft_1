@@ -1,9 +1,9 @@
-# 1. VISÃO DO PRODUTO
+# Visão do Produto
 
-**Para:** Criadores de produto e empresas com times de produto,
-<br>**Cujo o desafio é:** Não saber por onde começar ao elaborar um novo produto,
-<br>**O Produtim,**
+**Para:** Fãs de automobilismo que acompanham campeonatos nacionais e internacionais,
+<br>**Encontrar informações confiáveis, atualizadas e organizadas sobre diferentes categorias de corrida em um só lugar,
+<br>**O RaceLive,**
 <br>**É:** Uma aplicação web responsiva,
-<br>**Que:** Facilita e otimiza a ideação de novos produtos em poucos dias, ao invés de uma semana ou mais, com um número pequeno de usuários.
-<br>**Diferente de:** Ferramentas como Jira, ClickUp, Trello ou Miro,
-<br>**O nosso produto oferece:** Uma estrutura focada exclusivamente na ideação rápida e colaborativa com poucas pessoas, promovendo a criação de um MVP funcional e seu template inicial, sem a necessidade de papéis, post-its ou quadros físicos.
+<br>**Que:** Centraliza a cobertura de corridas de automobilismo pelo mundo, com calendário de eventos, resultados em tempo real, classificação de pilotos e equipes, notícias e notificações personalizadas.
+<br>**Diferente de:** Sites genéricos de esportes ou redes sociais fragmentadas,
+<br>**O nosso produto oferece:** Uma experiência dedicada exclusivamente ao universo do automobilismo, com curadoria de conteúdo, personalização por categoria (F1, WEC, Indy, Rally, etc.), alertas inteligentes e uma interface pensada para os verdadeiros fãs do esporte a motor.
