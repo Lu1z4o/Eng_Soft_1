@@ -47,14 +47,16 @@
   </tr>
 </table>
 
-### 2.1 TRADE - OFFS 
+### Trade Offs 
 
-1. **Usabilidade:** Tem que ser o mais necessário visto que esse produto visa melhorar a utilização e a construção de templates de metodologias ágeis. 
+1. **Acessibilidade:** Deve priorizar acesso rápido e direto a dados como calendário, resultados e classificação. O foco é entregar a informação certa no menor número de cliques possível.
 
-2. **Desempenho:** Pode ter várias pessoas em uma mesma sessão. 
 
-3. **Segurança:** Como são produtos que estão sendo concebidos, os dados devem estar seguros sem vazamentos (espionagem empresarial). 
+2. **Desempenho:** A plataforma precisa ser ágil e suportar atualizações rápidas, especialmente durante corridas ao vivo, mesmo em conexões móveis. 
 
-4. **Confiabilidade:** O sistema tem que prever problemas de falha de conexão ou algo do tipo para poder salvar os dados das pessoas. 
+3. **Segurança e privacidade:** Embora não envolva dados críticos, é essencial proteger preferências do usuário, histórico de alertas e configurações personalizadas. 
 
-5. **Suportabilidade:** Tem que ser responsivo para uma sessão pode ser realizada no celular. 
+4. **Confiabilidade:** Deve continuar funcionando mesmo com conexões instáveis, exibindo dados sincronizados anteriormente e atualizando assim que possível.
+ 
+
+5. **Adaptabilidade:** Precisa funcionar bem em qualquer tela, garantindo que o usuário acompanhe as corridas de onde estiver. 
