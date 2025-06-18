@@ -18,4 +18,4 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 
 ## Sumário
 
-*   [Visão do produto](/workspaces/Eng_Soft_1/documentos_projeto/visao_produto)
+*   [Visão do produto](/workspaces/Eng_Soft_1/documentos/visao_prod)
