@@ -1,4 +1,4 @@
-# 2. O QUE O PRODUTO É - NÃO É - FAZ E NÃO FAZ
+# Sobre o produto - É, NÃO É, FAZ E NÃO FAZ
 
 <table>
   <tr>
@@ -8,19 +8,18 @@
   <tr>
     <td>
       <ul>
-        <li>É um manual passo a passo para concepção de um MVP.</li>
-        <li>Facilitador para a construção de produtos.</li>
-        <li>É uma aplicação web gratuita.</li>
-        <li>É uma plataforma destinada exclusivamente para criação de MVP funcionais.</li>
-        <li>Organiza e acelera o início de projetos, mesmo sem muita informação inicial.</li>
+        <li>Uma plataforma digital focada exclusivamente em corridas de automobilismo.</li>
+        <li>Uma fonte centralizada de informação sobre corridas no mundo todo.</li>
+        <li>Uma plataforma para fãs acompanharem calendários, resultados e classificações.</li>
+        <li>É uma plataforma que personaliza a experiência do fã com base nas categorias, pilotos e equipes que ele mais acompanha.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Não é um sistema completo de gestão de projetos como Jira, ClickUp ou Trello.</li>
-        <li>Não é um espaço para documentação extensa ou gestão de backlog a longo prazo.</li>
-        <li>Não é uma ferramenta para times grandes com fluxos complexos e hierarquias rígidas.</li>
-        <li>Não é um app de design, prototipagem visual ou wireframe (como Figma ou Miro).</li>
+        <li>Não é uma rede social genérica ou um app de esportes em geral.</li>
+        <li>Não é um serviço de streaming para assistir corridas ao vivo.</li>
+        <li>Não é um jogo ou simulador de corridas.</li>
+        <li>Não é um organizador de eventos de corrida ou ferramenta para pilotos.</li>
       </ul>
     </td>
   </tr>
@@ -31,20 +30,19 @@
   <tr>
     <td>
       <ul>
-        <li>Ajuda a estruturar ideias brutas em um esboço funcional de produto (pré-MVP).</li>
-        <li>Sugere templates e etapas práticas para gerar o primeiro escopo em poucas horas ou dias, baseado em metodologias já testadas (PBB e Lean Inspection).</li>
-        <li>Facilita o alinhamento rápido entre criadores com base em objetivos e entregas simples.</li>
-        <li>Incentiva a validação rápida de hipóteses e a documentação leve da ideia.</li>
-        <li>Elimina a necessidade de usar papéis, post-its ou quadros físicos no início.</li>
-        <li>Elimina a necessidade de passos intensos e maçantes que podem ser otimizados com I.A.</li>
+        <li>Exibe calendário de campeonatos e corridas por categoria.</li>
+        <li>Atualiza resultados e classificações em tempo real ou após as provas.</li>
+        <li>Envia notificações sobre corridas favoritas ou mudanças de agenda.</li>
+        <li>Permite seguir pilotos, equipes e categorias específicas.</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Não substitui o uso de ferramentas completas de desenvolvimento, acompanhamento ou deploy.</li>
-        <li>Não faz prototipação visual ou fluxogramas interativos.</li>
+        <li>Não transmite corridas ao vivo.</li>
+        <li>Não permite inscrição em eventos ou competições.</li>
         <li>Não gera código ou entrega técnica do produto.</li>
-        <li>Não substitui pesquisas de mercado, testes com usuários ou entrevistas qualitativas.</li>
+        <li>Não oferece recursos para compra de ingressos ou produtos de equipes.</li>
+        <li>Não coleta dados para uso em apostas esportivas</li>
       </ul>
     </td>
   </tr>
