@@ -1,7 +1,7 @@
 # Visão do Produto
 
 **Para:** Fãs de automobilismo que acompanham campeonatos nacionais e internacionais,
-<br>**Encontrar informações confiáveis, atualizadas e organizadas sobre diferentes categorias de corrida em um só lugar,
+<br>**Cujo problema é:** Encontrar informações confiáveis, atualizadas e organizadas sobre diferentes categorias de corrida em um só lugar,
 <br>**O RaceLive,**
 <br>**É:** Uma aplicação web responsiva,
 <br>**Que:** Centraliza a cobertura de corridas de automobilismo pelo mundo, com calendário de eventos, resultados em tempo real, classificação de pilotos e equipes, notícias e notificações personalizadas.
