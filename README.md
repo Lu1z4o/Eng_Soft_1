@@ -20,3 +20,4 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 
 *   [Visão do produto](./docs/VISAO_PROD.md)
 *   [Sobre o produto - É, NÃO É, FAZ E NÃO FAZ](./docs/E_NAOE_FAZ_NAOFAZ.md)
+*   [Personas](./docs/PERSONAS.md)
