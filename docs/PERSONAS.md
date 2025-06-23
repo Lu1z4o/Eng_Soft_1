@@ -30,10 +30,11 @@
 </table>
 
 
-## **Felipe Tavares (Dev Fullstack Júnior)**
+## **Juliana Santana (Fã casual)**
 - Idade: 28 anos
-- Cargo: Dev Fullstack Júnior em uma fábrica de software
-- Empresa: Fábrica de Software.
+- Função: Publicitária
+- Local: São Paulo, SP
+- Interesses: Fórmula 1
 
 <table>
   <tr>
@@ -43,22 +44,26 @@
   <tr>
     <td>
       <ul>
-        Motivado, curioso e comprometido. Gosta de entender o impacto do que está desenvolvendo, mas sente frustração quando recebe demandas mal explicadas ou constantemente alteradas. É produtivo quando tem direcionamento claro e autonomia.
+        Juliana não acompanha todas as corridas, mas adora torcer por sua equipe favorita. Quer ser lembrada das corridas importantes, entender o que aconteceu rapidamente e compartilhar com os amigos.
       </ul>
     </td>
     <td>
       <ul>
-        Entender rapidamente o que deve ser feito e como deve ser feito. Receber escopos claros, objetivos e priorizados, sem ruído de comunicação. Acessar protótipos funcionais e simples, sem depender de explicações extensas. Desenvolver somente o necessário, com foco no valor real da funcionalidade. Evitar retrabalho e tarefas sem propósito. Conhecer previamente a tecnologia exigida para a tarefa, com aptidão técnica para execução. Evitar desculpas, mudanças sem contexto e interpretações dúbias.
+        - Notificações antes das corridas e resumos depois
+        - Conteúdo simplificado e completo
+        - Facilidade para compartilhar resultados nas redes sociais
+        - Personalização para seguir categorias específicas
       </ul>
     </td>
   </tr>
 </table>
 
 
-## **Bruna Costa (Scrum Master / Facilitadora Ágil)**
-- Idade: 28 anos
-- Cargo: Scrum Master e facilitadora ágil em consultoria de TI
-- Empresa: Fábrica de Software.
+## **Ricardo Lemos (Criador de conteúdo)**
+- Idade: 38 anos
+- Função: Apresentador de canal no YouTube sobre automobilismo
+- Local: Porto Alegre, RS
+- Interesses: Fórmula 1, WEC, Stock Car, bastidores
 <table>
   <tr>
     <th style="width: 40%; text-align: left;">COMPORTAMENTO</th>
@@ -67,12 +72,15 @@
   <tr>
     <td>
       <ul>
-        Organizada, dinâmica, atua como ponte entre áreas. Gosta de processos visuais e ferramentas que agilizem rituais ágeis.
+        Ricardo publica conteúdo semanal sobre automobilismo e faz transmissões ao vivo antes e depois das corridas. Precisa ter informações sempre atualizadas e confiáveis, com acesso rápido.
       </ul>
     </td>
     <td>
       <ul>
-        Agilizar a fase de concepção e alinhamento do produto. Reduzir tempo de planejamento de sprints. Garantir entregas com objetivos bem definidos desde o início.
+        - Painel com agenda completa e dados de múltiplas categorias
+        - Resultados ao vivo para usar durante suas transmissões
+        - Histórico e estatísticas para comentar com profundidade
+        - Destaques da corrida em formato rápido
       </ul>
     </td>
   </tr>
