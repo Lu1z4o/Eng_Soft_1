@@ -53,10 +53,14 @@
     </td>
     <td>
       <ul>
-        - Notificações antes das corridas e resumos depois
-        - Conteúdo simplificado e completo
-        - Facilidade para compartilhar resultados nas redes sociais
-        - Personalização para seguir categorias específicas
+
+- Notificações antes das corridas e resumos depois
+
+- Conteúdo simplificado e completo
+
+- Facilidade para compartilhar resultados nas redes sociais
+
+- Personalização para seguir categorias específicas
       </ul>
     </td>
   </tr>
@@ -81,10 +85,14 @@
     </td>
     <td>
       <ul>
-        - Painel com agenda completa e dados de múltiplas categorias
-        - Resultados ao vivo para usar durante suas transmissões
-        - Histórico e estatísticas para comentar com profundidade
-        - Destaques da corrida em formato rápido
+
+- Painel com agenda completa e dados de múltiplas categorias
+
+- Resultados ao vivo para usar durante suas transmissões
+
+- Histórico e estatísticas para comentar com profundidade
+
+- Destaques da corrida em formato rápido
       </ul>
     </td>
   </tr>
