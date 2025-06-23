@@ -20,6 +20,7 @@
     </td>
     <td>
       <ul>
+        
   - Ver classificação geral e estatísticas detalhadas de cada corrida
         
   - Receber notificações com resultados e mudanças na tabela
@@ -52,10 +53,14 @@
     </td>
     <td>
       <ul>
-        - Notificações antes das corridas e resumos depois
-        - Conteúdo simplificado e completo
-        - Facilidade para compartilhar resultados nas redes sociais
-        - Personalização para seguir categorias específicas
+        
+  - Notificações antes das corridas e resumos depois
+  
+  - Conteúdo simplificado e completo
+
+  - Facilidade para compartilhar resultados nas redes sociais
+
+  - Personalização para seguir categorias específicas
       </ul>
     </td>
   </tr>
