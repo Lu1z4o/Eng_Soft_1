@@ -85,10 +85,15 @@
     </td>
     <td>
       <ul>
-        - Painel com agenda completa e dados de múltiplas categorias
-        - Resultados ao vivo para usar durante suas transmissões
-        - Histórico e estatísticas para comentar com profundidade
-        - Destaques da corrida em formato rápido
+        
+  - Painel com agenda completa e dados de múltiplas categorias
+
+  - Resultados ao vivo para usar durante suas transmissões
+  
+  - Histórico e estatísticas para comentar com profundidade
+  
+  - Destaques da corrida em formato rápido
+    
       </ul>
     </td>
   </tr>
