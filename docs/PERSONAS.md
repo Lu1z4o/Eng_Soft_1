@@ -20,13 +20,13 @@
     </td>
     <td>
       <ul>
-        - Ver classificação geral e estatísticas detalhadas de cada corrida
-
-        - Receber notificações com resultados e mudanças na tabela
-
-        - Acesso fácil por celular durante os eventos
+  - Ver classificação geral e estatísticas detalhadas de cada corrida
         
-        - Dados atualizados em tempo real
+  - Receber notificações com resultados e mudanças na tabela
+
+  - Acesso fácil por celular durante os eventos
+        
+  - Dados atualizados em tempo real
       </ul>
     </td>
   </tr>
