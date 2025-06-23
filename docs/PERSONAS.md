@@ -28,7 +28,6 @@
 - Acesso fácil por celular durante os eventos
         
 - Dados atualizados em tempo real
-
       </ul>
     </td>
   </tr>
