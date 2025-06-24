@@ -16,6 +16,7 @@
 10. Após a corrida, acessa os dados detalhados e compartilha com amigos no Reddit 
 
 
+
 **Juliana Santana (Fã casual)**
 #### Objetivo: Verificar um resumo rápido da corrida de Fórmula 1 de ontem
 
@@ -28,6 +29,7 @@
 7. Explora rapidamente os próximos eventos no calendário  
 8. Salva o GP do Brasil como favorito  
 9. Fecha o app satisfeita por ter entendido tudo rapidamente
+
 
 
 **Ricardo Lemos (Criador de conteúdo)**
