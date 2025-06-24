@@ -22,3 +22,4 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 *   [Sobre o produto - É, NÃO É, FAZ E NÃO FAZ](./docs/E_NAOE_FAZ_NAOFAZ.md)
 *   [Personas](./docs/PERSONAS.md)
 *   [Brainstorm de funcionalidades](./docs/BRAINSTORM.md)
+*   [Revisão técnica de UX de negócio](./docs/REVISAO.md)
