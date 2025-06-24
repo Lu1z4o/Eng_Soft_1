@@ -1,6 +1,6 @@
 # Jornadas dos usuários
 
-**Pedro Martins (Fã de corridas de automobilismo)**
+## **Pedro Martins (Fã de corridas de automobilismo)**
 
 #### Objetivo: Acompanhar uma corrida de IndyCar
 
@@ -17,7 +17,7 @@
 
 
 
-**Juliana Santana (Fã casual)**
+## **Juliana Santana (Fã casual)**
 #### Objetivo: Verificar um resumo rápido da corrida de Fórmula 1 de ontem
 
 1. Acorda na segunda-feira e vê no Instagram que teve corrida ontem  
@@ -32,7 +32,7 @@
 
 
 
-**Ricardo Lemos (Criador de conteúdo)**
+## **Ricardo Lemos (Criador de conteúdo)**
 #### Objetivo: Usa os dados coletados na aplicação para uma live pós-corrida
 
 1. Termina a transmissão da corrida em seu canal no YouTube  
