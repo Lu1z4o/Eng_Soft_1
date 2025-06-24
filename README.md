@@ -23,3 +23,4 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 *   [Personas](./docs/PERSONAS.md)
 *   [Brainstorm de funcionalidades](./docs/BRAINSTORM.md)
 *   [Revisão técnica de UX de negócio](./docs/REVISAO.md)
+*   [Jornadas dos usuários](./docs/JORNADA.md)
