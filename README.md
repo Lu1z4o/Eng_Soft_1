@@ -25,3 +25,4 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 *   [Revisão técnica de UX de negócio](./docs/REVISAO.md)
 *   [Jornadas dos usuários](./docs/JORNADA.md)
 *   [Funcionalidades na jornada](./docs/FUNCIONALIDADE_JORNADA.md)
+*   [Sequenciador](./docs/SEQUENCIADOR.md)
