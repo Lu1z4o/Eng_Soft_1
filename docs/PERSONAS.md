@@ -67,7 +67,7 @@
 </table>
 
 
-## **Ricardo Lemos (Criador de conteúdo)**
+## **Ricardo Lemos (Criador de conteúdo / Jornalista)**
 - Idade: 38 anos
 - Função: Apresentador de canal no YouTube sobre automobilismo
 - Local: Porto Alegre, RS
