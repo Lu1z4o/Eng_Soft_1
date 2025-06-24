@@ -90,7 +90,7 @@
       
 - Notícias e artigos sobre bastidores, atualizações e rumores
 
-- Resumos pós-corrida com destaques
+- Resumos pós-corrida
 
 - Mini vídeos explicando acontecimentos técnicos (ex: punições, estratégias)
 
