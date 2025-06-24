@@ -15,4 +15,4 @@
 *   **Confiança:** Verde (Alta), Amarelo (Média), Vermelho (Baixa)
 *   **Esforço:** E (Baixo), EE (Médio), EEE (Alto)
 *   **Valor UX:** ♥ (Baixo), ♥♥ (Médio), ♥♥♥ (Alto)
-*   **Valor $ (Negócio):** $ (Baixo), $$ (Médio), $$$ (Alto)
+*   **Valor do negócio:** $ (Baixo), $$ (Médio), $$$ (Alto)
