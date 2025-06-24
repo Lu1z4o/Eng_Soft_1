@@ -51,7 +51,7 @@ Como Pedro Martins, quero comparar dois pilotos em gráficos, para entender quem
 
 ---
 
-# 📱 Persona: Juliana Santana (Fã Casual)
+# Persona: Juliana Santana (Fã Casual)
 
 ## 2.1. Funcionalidade: Receber Notificações e Resumo Pós-Corrida
 **História:**  
@@ -105,7 +105,7 @@ Como Juliana Santana, quero ler um artigo curto com os principais acontecimentos
 
 ---
 
-# 📰 Persona: Ricardo Lemos (Criador de Conteúdo)
+# Persona: Ricardo Lemos (Criador de Conteúdo)
 
 ## 3.1. Funcionalidade: Exportar Dados da Corrida
 **História:**  
