@@ -2,20 +2,21 @@
 
 # Persona: Pedro Martins (Fã de corridas de automobilismo)
 
-## 1.1. Funcionalidade: Visualizar Estatísticas Detalhadas da Corrida
+## 1.1. Funcionalidade: Receber Alertas de Eventos Estratégicos Durante a Corrida
+
 **História:**  
-Como Pedro Martins, quero acessar as estatísticas detalhadas de uma corrida para analisar o desempenho de pilotos e estratégias em tempo real.
+Como Pedro Martins, quero receber alertas sobre eventos estratégicos importantes (como pit stops, ultrapassagens e safety car) durante a corrida, para acompanhar melhor as mudanças táticas em tempo real.
 
 **Tarefas:**
-- Criar página de estatísticas por corrida
-- Integrar com API de dados esportivos (voltas, pit stops, posições)
-- Exibir gráficos e tabelas em tempo real
-- Permitir filtros por piloto e equipe
+- Integrar sistema de alertas com os eventos em tempo real da corrida
+- Criar lógica de gatilhos para eventos relevantes (pit stop, bandeiras, ultrapassagens)
+- Exibir notificações não intrusivas dentro da interface da corrida
+- Permitir ativar ou desativar tipos específicos de alerta nas configurações
 
 **Critérios de Aceite:**
-- A página deve mostrar dados de voltas, posições e pit stops de cada piloto.
-- Os dados devem ser atualizados automaticamente durante a corrida.
-- O layout deve ser responsivo e otimizado para mobile.
+- O sistema deve enviar alertas durante a corrida em tempo real com base em dados recebidos da API.
+- Os alertas devem ser discretos, mas visíveis, e personalizáveis por tipo de evento.
+- O recurso deve funcionar tanto em mobile quanto em desktop.
 
 ---
 
