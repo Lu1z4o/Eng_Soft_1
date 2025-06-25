@@ -36,19 +36,22 @@ Como Pedro Martins, quero ver a classificação atualizada do campeonato para ac
 
 ---
 
-## 1.3. Funcionalidade: Comparar Desempenho de Pilotos
+## 1.3. Funcionalidade: Comparar Estatísticas de Temporada entre Pilotos
+
 **História:**  
-Como Pedro Martins, quero comparar dois pilotos em gráficos, para entender quem teve melhor desempenho na corrida.
+Como Pedro Martins, quero comparar estatísticas como pontos, poles e vitórias entre dois pilotos ao longo da temporada, para avaliar quem está tendo o melhor desempenho geral.
 
 **Tarefas:**
-- Criar interface de comparação de pilotos
-- Permitir seleção de dois pilotos
-- Gerar gráficos de posição, tempo por volta e pit stops
+- Criar interface de comparação entre pilotos por temporada
+- Permitir seleção de dois pilotos para comparação
+- Exibir gráficos comparativos de pontos, vitórias, poles e média de classificação
+- Adicionar indicadores visuais para destacar quem lidera em cada métrica
 
 **Critérios de Aceite:**
-- O sistema deve permitir comparar pelo menos dois pilotos por corrida.
-- Os dados devem ser apresentados de forma clara e visual.
-- A comparação deve funcionar em desktop e mobile.
+- O sistema deve permitir a comparação de estatísticas acumuladas entre dois pilotos.
+- Devem ser apresentados pelo menos: total de pontos, número de vitórias, poles e pódios.
+- A comparação deve estar disponível em versão responsiva para desktop e mobile.
+- Os dados devem ser atualizados automaticamente após cada corrida.
 
 ---
 
