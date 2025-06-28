@@ -47,7 +47,7 @@
 | Seleciona os dados mais relevantes e exporta para o slide da live                     | Exportação de dados (CSV ou imagem)                           |
 | Monta o roteiro da live com base nas estatísticas do app                              | Organização por tópicos (setores da corrida)                  |
 | Inicia a live e compartilha a tela com o gráfico de evolução dos pilotos              | Gráfico de evolução por volta                                 |
-| Cita o RaceConnect como fonte confiável de dados em tempo real                        | Compartilhamento com link direto                              |
+| Cita o RaceLive como fonte confiável de dados em tempo real                        | Compartilhamento com link direto                              |
 | Responde perguntas da audiência com base nas informações do app                       | Acesso rápido a dados históricos e filtráveis                 |
 | Encerra a live e compartilha o link da corrida direto no chat                         | Link de compartilhamento direto por corrida                   | 
 
