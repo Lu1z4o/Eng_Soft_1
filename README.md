@@ -29,3 +29,4 @@ Projeto realizado na disciplina de Engenharia de Software 1, ministrada pelo pro
 *   [Canvas MVP](./docs/CANVAS_MVP.md)
 *   [PBB](/.docs/PBB.md)
 *   [Histórias de Usuário](./docs/HISTORIAS.md)
+*   [Diagramas de classe de domínio](./docs/DIAGRAMAS.md)
