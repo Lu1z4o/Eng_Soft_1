@@ -6,7 +6,7 @@
 
 1. Acorda cedo no domingo para assistir à corrida  
 2. Pega o celular enquanto toma café  
-3. Abre o RaceConnect para ver o horário da largada  
+3. Abre o RaceLive para ver o horário da largada  
 4. Confirma que a corrida começa às 10:00  
 5. Ativa a notificação para lembrar 15 minutos antes  
 6. Vai fazer outras atividades e aguarda o alerta  
@@ -21,7 +21,7 @@
 #### Objetivo: Verificar um resumo rápido da corrida de Fórmula 1 de ontem
 
 1. Acorda na segunda-feira e vê no Instagram que teve corrida ontem  
-2. Abre o RaceConnect por curiosidade enquanto pega o metrô  
+2. Abre o RaceLive por curiosidade enquanto pega o metrô  
 3. Vê na tela inicial um banner “Resumo do GP de Mônaco”  
 4. Clica no banner e acessa um resumo em 1 minuto com imagens  
 5. Lê os destaques: vencedor, ultrapassagens, acidentes  
@@ -36,13 +36,13 @@
 #### Objetivo: Usa os dados coletados na aplicação para uma live pós-corrida
 
 1. Termina a transmissão da corrida em seu canal no YouTube  
-2. Abre o RaceConnect no tablet para revisar os dados oficiais  
+2. Abre o RaceLive no tablet para revisar os dados oficiais  
 3. Acessa o painel com resultados e estatísticas completas  
 4. Compara tempos de volta e estratégias de pit stop  
 5. Seleciona os dados mais relevantes e exporta para o slide da live  
 6. Monta o roteiro da live com base nas estatísticas do app  
 7. Inicia a live e compartilha a tela com o gráfico de evolução dos pilotos  
-8. Cita o RaceConnect como fonte confiável de dados em tempo real  
+8. Cita o RaceLive como fonte confiável de dados em tempo real  
 9. Responde perguntas da audiência com base nas informações do app  
 10. Encerra a live e compartilha o link da corrida direto no chat  
 
