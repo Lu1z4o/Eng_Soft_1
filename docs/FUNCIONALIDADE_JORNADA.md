@@ -8,7 +8,7 @@
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Acorda cedo no domingo para assistir à corrida                                         | —                                                             |
 | Pega o celular enquanto toma café                                                     | —                                                             |
-| Abre o RaceConnect para ver o horário da largada                                      | Calendário de corridas por categoria                          |
+| Abre o RaceLive para ver o horário da largada                                      | Calendário de corridas por categoria                          |
 | Confirma que a corrida começa às 10:00                                                | Exibição de horários locais e integração com agenda           |
 | Ativa a notificação para lembrar 15 minutos antes                                     | Notificações personalizadas por evento                        |
 | Vai fazer outras atividades e aguarda o alerta                                        | —                                                             |
@@ -25,7 +25,7 @@
 | **Passos**                                                                 | **Funcionalidade**                             |
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Acorda na segunda-feira e vê no Instagram que teve corrida ontem                      | —                                                             |
-| Abre o RaceConnect por curiosidade enquanto pega o metrô                              | Interface responsiva (mobile-first)                           |
+| Abre o RaceLive por curiosidade enquanto pega o metrô                              | Interface responsiva (mobile-first)                           |
 | Vê na tela inicial um banner “Resumo do GP de Mônaco”                                 | Destaques visuais de corrida recente                          |
 | Clica no banner e acessa um resumo em 1 minuto com imagens                            | Resumo pós-corrida com imagens e texto breve                  |
 | Lê os destaques: vencedor, ultrapassagens, acidentes                                  | Dados resumidos da corrida                                    |
@@ -41,7 +41,7 @@
 | **Passos**                                                                 | **Funcionalidade**                             |
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | Termina a transmissão da corrida em seu canal no YouTube                              | —                                                             |
-| Abre o RaceConnect no tablet para revisar os dados oficiais                           | Interface adaptada para tablet/web                            |
+| Abre o RaceLive no tablet para revisar os dados oficiais                           | Interface adaptada para tablet/web                            |
 | Acessa o painel com resultados e estatísticas completas                               | Resultados detalhados por piloto/equipe                       |
 | Compara tempos de volta e estratégias de pit stop                                     | Dados técnicos e gráficos de estratégia                       |
 | Seleciona os dados mais relevantes e exporta para o slide da live                     | Exportação de dados (CSV ou imagem)                           |
